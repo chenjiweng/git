@@ -64,7 +64,7 @@ h2{font-weight:normal;color: #b8ceda;}
 .loginbox0{width:810px;margin-top:0px;height:252px;}
 .loginlist{width:810px; overflow:hidden;}
 .loginlist{margin-top:110px;}
-.loginlist li{float:left; margin-left:50px; margin-right:15px;}
+.loginlist li{ margin-left:300px; margin-right:15px;}
 .loginlist li a{ display:block;width:196px; height:252px; background:url(../images/lbg.png) no-repeat; text-align:center; padding-top:25px; cursor:pointer;}
 .loginlist li a:hover{background:url(../images/lbg1.png) no-repeat;}
 .loginlist li a p{font-size:16px; color:#fff; padding-top:10px;}

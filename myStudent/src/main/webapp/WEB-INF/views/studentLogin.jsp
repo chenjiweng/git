@@ -90,6 +90,8 @@
     <li><a href="index.html">回首页</a></li>
     <li><a href="#">帮助</a></li>
     <li><a href="#">关于</a></li>
+    <li><a href="#">注册用户</a></li>
+    <li><a href="#">忘记密码</a></li>
     </ul>    
     </div>
     
@@ -105,10 +107,8 @@
     <li class="yzm">
     <span><input name="" type="text" value="验证码" onclick="JavaScript:this.value=''" id="yzm"/></span><cite onclick="ghyzm();">X3D5S</cite> 
     </li>
-    <li><input name="" type="button" class="loginbtn" value="登录"  onclick="validate()"  /><label><input name="" type="checkbox" value=""  />记住密码</label></li>
+    <li style="text-align: center;"><input name="" type="button" class="loginbtn" value="登录"  onclick="validate()"/></li>
     </ul>
-    
-    
     </div>
     
     </div>
