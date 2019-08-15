@@ -8,8 +8,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
 public class LoginController {
 	@RequestMapping(value="/login",method=RequestMethod.GET)
 	public String GetLogin() {
-		System.out.println("123");
 		return "login";
+	}
+	@RequestMapping(value="/studentLogin",method=RequestMethod.GET)
+	public String GetStudentLogin() {
+		return "studentLogin";
 	}
 	
 
